@@ -1,0 +1,6 @@
+{
+  "name": "Dr Mithra Hegde's Dental Speciality Clinic",
+  "description": "Official appointment booking and clinical portal for Dr. Mithra Hegde's Dental Speciality Clinic & Cosmetic Centre in Mangalore. Advanced microscopic endodontics, cosmetic smile design, and restorative care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
